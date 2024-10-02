@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, <h1 align="center" style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #14cf93;">     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rakib!" alt="Typing SVG" /> </h1>
+#### A passionate Frontend Web Developer from Bangladesh
+![A passionate Frontend Web Developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
-**rakib135836/rakib135836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakib135836)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib135836)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib135836&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rakib135836)  
+
 
