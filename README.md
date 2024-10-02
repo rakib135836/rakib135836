@@ -15,15 +15,15 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=saagor16&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=7F3FBF&sideLabels=00F0FF&currStreakNum=7F3FBF&ring=7F3FBF&currStreakLabel=7F3FBF&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rakib135836&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=7F3FBF&sideLabels=00F0FF&currStreakNum=7F3FBF&ring=7F3FBF&currStreakLabel=7F3FBF&sideNums=00F0FF" />
 </p>
 
 
 <br />
 
 <p align="center">
-  <a href="https://github.com/saagor16">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saagor16&theme=radical" alt="Sagor's GitHub Contribution"/>
+  <a href="https://github.com/rakib135836">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib135836&theme=radical" alt="Rakib's GitHub Contribution"/>
   </a>
 </p>
 
@@ -32,18 +32,18 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <br />
 
 <p align="center">
-  <a href="https://github.com/saagor16">
-    <img alt="Sagor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=saagor16&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <a href="https://github.com/rakib135836">
+    <img alt="Rakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rakib135836&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/saagor16">
-    <img alt="Sagor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=saagor16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <a href="https://github.com/rakib135836">
+    <img alt="Rakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rakib135836&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saagor16&custom_title=Sagor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Sagor's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib135836&custom_title=Rakib's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Rakib's GitHub Activity Graph"/>
 </p>
  
 
