@@ -7,7 +7,19 @@
 <h3 align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects
 </h3>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<h2 align="left" font="bold">Skills:</h2>
+<p align="left"> 
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="60" height="50"/> </a>  
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node JS" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="50"/> </a>    
+</p>
+
 
 - 🔭 I’m currently working on this page. 
 
