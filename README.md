@@ -7,6 +7,16 @@
 <h3 align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects
 </h3>
 
+## Overview
+
+- 🔭 I’m currently working on: A React based project
+- 🌱 I’m currently learning: <b>NextJs</b>
+- 💬 Ask me about: <b>HTML, CSS, JavaScript, React</b>
+- 📫 How to reach me: Mail Me - <b>rakib224127@gmail.com</b>
+- 🤔 I’m trying: <b>To improve my skills </b>
+- ⚡ Fun fact: Am a BookWorm and can read for hours
+
+
 <h2 align="left" font="bold">Skills:</h2>
 <p align="left"> 
     <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="60" height="50"/> </a>  
