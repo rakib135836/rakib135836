@@ -3,7 +3,9 @@
 </h3>
 ![A passionate Frontend Web Developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects
+
+<h3 align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects
+</h3>
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
