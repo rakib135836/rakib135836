@@ -1,13 +1,20 @@
-### Hi there 👋, <h1 align="center" style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #14cf93;">     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rakib!" alt="Typing SVG" /> </h1>
+
+
+<img src="https://i.ibb.co.com/4J8X6xv/Blue-White-Modern-Online-Business-Webinar-Banner-Landscape.png" alt="Banner" />
+
+ 
+ <h1 align="center" style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #14cf93;">     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rakib!" alt="Typing SVG" /> </h1>
+ 
 <h3 align="center">A passionate Front-end Developer from Bangladesh
 </h3>
 
 
 
-<h3 align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects
-</h3>
+<p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects
+</p>
 
-## Overview
+<h2>  Overview <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 🔭 I’m currently working on: A React based project
 - 🌱 I’m currently learning: <b>NextJs</b>
@@ -16,9 +23,14 @@
 - 🤔 I’m trying: <b>To improve my skills </b>
 - ⚡ Fun fact: Am a BookWorm and can read for hours
 
+<br>
 
-<h2 align="left" font="bold">Skills:</h2>
-<p align="left"> 
+
+
+
+
+<h2 align="left">Languages and Tools: <img src="https://github.com/MdAfsarHossain/MdAfsarHossain/blob/main/tools.webp" width="40px" height="40px"> </h2>
+<p align="center"> 
     <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="60" height="50"/> </a>  
     <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="60" height="50"/> </a>
     <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="60" height="50"/> </a>
@@ -31,10 +43,11 @@
 </p>
 
 
-- 🔭 I’m currently working on this page. 
+
+<h2 align="left">Connect with me: <img src="https://github.com/MdAfsarHossain/MdAfsarHossain/blob/main/get_in_touch.webp" width="40px" height="40px"></h2>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakib135836)  
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakib135836)  
 
 ## 📊 GitHub Stats
 
